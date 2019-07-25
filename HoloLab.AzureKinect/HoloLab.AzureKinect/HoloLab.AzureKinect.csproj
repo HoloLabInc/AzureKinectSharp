@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Company>HoloLab Inc.</Company>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="class\" />
+  </ItemGroup>
+
+</Project>
